@@ -1,0 +1,28 @@
+{
+  "name": "discordsupervivebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DYasser/DiscordSuperviveBot.git"
+  },
+  "keywords": [],
+  "author": "DYasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DYasser/DiscordSuperviveBot/issues"
+  },
+  "homepage": "https://github.com/DYasser/DiscordSuperviveBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.111",
+    "discord.js": "^14.16.3",
+    "discordsupervivebot": "file:",
+    "dotenv": "^16.4.7"
+  }
+}
